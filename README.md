@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DatboyDan
+- 👋 Hi, I’m @DanielF
 - 👀 I’m interested in making life-changing projects
 - 🌱 I’m currently learning how to become a software engineer
 - 💞️ I’m looking to collaborate on any type of programming projects
